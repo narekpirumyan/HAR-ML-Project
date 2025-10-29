@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+__MACOSX/
+Thumbs.db
+
+# Data files (if you don't want to commit large datasets)
+# Uncomment the lines below if you want to exclude data files
+# *.csv
+# *.txt
+# *.png
+# *.jpg
+# *.jpeg
+
+# Model files
+*.pkl
+*.h5
+*.pt
+*.pth
+
+# Large dataset folders (optional - uncomment if needed)
+# UCI HAR Dataset/
+
