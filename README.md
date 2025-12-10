@@ -74,7 +74,6 @@ Features extracted from time and frequency domains:
 HAR/
 │
 ├── HAR.ipynb                          # Main Jupyter notebook with all analysis
-├── PRESENTATION_GUIDE.md              # Presentation guide and documentation
 ├── README.md                          # This file
 │
 ├── HAR with Smartphone/
@@ -340,7 +339,6 @@ This project is provided for educational and research purposes.
 
 - [UCI HAR Dataset](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)
 - [Experiment Video](http://www.youtube.com/watch?v=XOEN9W05_4A)
-- [Presentation Guide](PRESENTATION_GUIDE.md)
 
 ## 👤 Author
 
